@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Link to stylesheet/XSLT-->
+<?xml-stylesheet  href="index.xsl" type="text/xsl"?>
+
+<!--This is our root tag-->
+<football>
+	<!--Premier League starts here-->
+	<league name="PremierLeague">
+		<!--Manchester United starts here-->
+        <team name="ManchesterUnited">
+            <player id="1">
+                <name>David de Gea</name>
+                <position>Goalkeeper</position>
+                
+                <number>1</number>
+                <age>25</age>
+                <nationality>Spanish</nationality>
+            </player>
+            <player id="2">
+                <name>Phil Jones</name>
+                <position>Defence</position>
+                <number>4</number>
+                <age>23</age>
+                <nationality>English</nationality>
+            </player>
+            <player id="3">
+                <name>Marcos Rojo</name>
+                <position>Defence</position>
+                <number>5</number>
+                <age>25</age>
+                <nationality>Argentinian</nationality>
+            </player>
+            <player id="4">
+                <name>Memphis Depay</name>
+                <position>Forward</position>
+                <number>7</number>
+                <age>21</age>
+                <nationality>Dutch</nationality>
+            </player>
+            <player id="5">
+                <name>Juan Mata</name>
+                <position>Midfield</position>
+                <number>8</number>
+                <age>27</age>
+                <nationality>Spanish</nationality>
+            </player>
+            <player id="6">
+                <name>Anthony Martial</name>
+                <position>Forward</position>
+                <number>9</number>
+                <age>19</age>
+                <nationality>French</nationality>
+            </player>
+            <player id="7">
+                <name>Wayne Rooney</name>
+                <position>Forward</position>
+                <number>10</number>
+                <age>30</age>
+                <nationality>English</nationality>
+            </player>
+            <player id="8">
+                <name>Chris Smalling</name>
+                <position>Defence</position>
+                <number>12</number>
+                <age>25</age>
+                <nationality>English</nationality>
+            </player>
+            <player id="9">
+                <name>Michael Carrick</name>
+                <position>Midfield</position>
+                <number>16</number>
+                <age>34</age>
+                <nationality>English</nationality>
+            </player>
+            <player id="10">
+                <name>Daley Blind</name>
+                <position>Midfield</position>
+                <number>17</number>
+                <age>25</age>
+                <nationality>Dutch</nationality>
+            </player>
+            <player id="11">
+                <name>Ashley Young</name>
+                <position>Midfield</position>
+                <number>18</number>
+                <age>30</age>
+                <nationality>English</nationality>
+            </player>
+        </team>
+		
+		
+		<!---Arsenal starts here-->
+        <team name="Arsenal">
+            <player1 id="12">
+                <name>Mathieu Debuchy</name>
+                <position>Defence</position>
+                <number>2</number>
+                <age>30</age>
+                <nationality>French</nationality>
+            </player1>
+            <player1 id="13">
+                <name>Kieran Gibbs</name>
+                <position>Defence</position>
+                <number>3</number>
+                <age>26</age>
+                <nationality>English</nationality>
+            </player1>
+            <player1 id="14">
+                <name>Per Mertesacker</name>
+                <position>Defence</position>
+                <number>4</number>
+                <age>31</age>
+                <nationality>German</nationality>
+            </player1>
+            <player1 id="15">
+                <name>Gabriel</name>
+                <position>Defence</position>
+                <number>5</number>
+                <age>24</age>
+                <nationality>Brazilian</nationality>
+            </player1>
+            <player1 id="16">
+                <name>Laurent Koscielny</name>
+                <position>Defence</position>
+                <number>6</number>
+                <age>30</age>
+                <nationality>French</nationality>
+            </player1>
+            <player1 id="17">
+                <name>Tomáš Rosický</name>
+                <position>Midfield</position>
+                <number>7</number>
+                <age>35</age>
+                <nationality>Czechoslovakian</nationality>
+            </player1>
+            <player1 id="18">
+                <name>Mikel Arteta</name>
+                <position>Midfield</position>
+                <number>8</number>
+                <age>33</age>
+                <nationality>Spanish</nationality>
+            </player1>
+            <player1 id="19">
+                <name>Jack Wilshere</name>
+                <position>Midfield</position>
+                <number>10</number>
+                <age>23</age>
+                <nationality>English</nationality>
+            </player1>
+            <player1 id="20">
+                <name>Mesut Özil</name>
+                <position>Midfield</position>
+                <number>11</number>
+                <age>27</age>
+                <nationality>German</nationality>
+            </player1>
+            <player1 id="21">
+                <name>Olivier Giroud</name>
+                <position>Forward</position>
+                <number>12</number>
+                <age>29</age>
+                <nationality>French</nationality>
+            </player1>
+            <player1 id="22">
+                <name>David Ospina</name>
+                <position>Goalkeeper</position>
+                <number>13</number>
+                <age>27</age>
+                <nationality>Columbian</nationality>
+            </player1>
+        </team>
+	</league>
+		
+	<!--La Liga starts here-->
+	<league name="LaLiga">
+		<!--Real Madrid starts here-->
+		<team name="RealMadrid">
+			<player2 id="23">
+                <name>Keylor Navas</name>
+                <position>Goalkeeper</position>
+                <number>1</number>
+                <age>28</age>
+                <nationality>Costa Rican</nationality>
+            </player2>
+			<player2 id="24">
+                <name>Sergio Ramos</name>
+                <position>Defence</position>
+                <number>4</number>
+                <age>29</age>
+                <nationality>Spanish</nationality>
+            </player2>
+			<player2 id="25">
+                <name>Pepe</name>
+                <position>Defence</position>
+                <number>3</number>
+                <age>32</age>
+                <nationality>Portugese</nationality>
+            </player2>
+			<player2 id="25">
+                <name>Varane</name>
+                <position>Defender</position>
+                <number></number>
+                <age></age>
+                <nationality></nationality>
+            </player2>
+			<player2 id="26">
+                <name>Arbeloa</name>
+                <position></position>
+                <number></number>
+                <age></age>
+                <nationality></nationality>
+            </player2>
+			<player2 id="27">
+                <name>Carvajal</name>
+                <position></position>
+                <number></number>
+                <age></age>
+                <nationality></nationality>
+            </player2>
+			<player2 id="28">
+                <name>Danilo</name>
+                <position></position>
+                <number></number>
+                <age></age>
+                <nationality></nationality>
+            </player2>
+			<player2 id="29">
+                <name>Marcelo</name>
+                <position></position>
+                <number></number>
+                <age></age>
+                <nationality></nationality>
+            </player2>
+			<player2 id="30">
+                <name>Nacho</name>
+                <position></position>
+                <number></number>
+                <age></age>
+                <nationality></nationality>
+            </player2>
+			<player2 id="31">
+                <name>Kroos</name>
+                <position></position>
+                <number></number>
+                <age></age>
+                <nationality></nationality>
+            </player2>
+			<player2 id="32">
+                <name>Casemiro</name>
+                <position></position>
+                <number></number>
+                <age></age>
+                <nationality></nationality>
+            </player2>
+		</team>
+	</league>
+</football>
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+		
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

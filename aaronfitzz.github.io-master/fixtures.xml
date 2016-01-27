@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Link to stylesheet/XSLT-->
+<?xml-stylesheet  href="fixtures.xsl" type="text/xsl"?>
+
+<fixtures>
+<!-- realmadrid fixtures-->
+	<RealMadrid id="1">
+		<match>RealMadrid vs Villarreal</match>
+		<date>Sun 13th Dec</date>
+		<time>19:30</time>		
+	</RealMadrid>
+	
+	<RealMadrid id="2">
+		<match>Cadiz vs RealMadrid</match>
+		<date>Wed 16th Dec</date>
+		<time>20:00</time>		
+	</RealMadrid>
+	
+	<RealMadrid id="3">
+		<match>RealMadrid vs RayoVallecano</match>
+		<date>Sun 20th Dec</date>
+		<time>15:00</time>		
+	</RealMadrid>
+	
+	<RealMadrid id="4">
+		<match>RealMadrid vs Real Sociedad</match>
+		<date>Wed 30 Dec</date>
+		<time>15:00</time>		
+	</RealMadrid>
+	
+	<RealMadrid id="5">
+		<match>Valencia vs Real Madrid</match>
+		<date>Sun 3rd Jan</date>
+		<time>19:30</time>		
+	</RealMadrid>
+	
+<!--ManchesterUnited fixtures-->
+
+	<ManchesterUnited id="1">
+		<match>Bournemouth vs ManchesterUnited</match>
+		<date>Sat 12th Dec</date>
+		<time>17:30</time>		
+	</ManchesterUnited>
+	
+	<ManchesterUnited id="2">
+		<match>ManchesterUnited vs Norwich City</match>
+		<date>Sat 19th Dec</date>
+		<time>15:00</time>		
+	</ManchesterUnited>
+	
+	<ManchesterUnited id="3">
+		<match>Sroke City vs ManchesterUnited</match>
+		<date>Sat 26th Dec</date>
+		<time>12:45</time>		
+	</ManchesterUnited>
+	
+	<ManchesterUnited id="4">
+		<match>ManchesterUnited vs Chelsea</match>
+		<date>Mon 28th Dec</date>
+		<time>17:30</time>		
+	</ManchesterUnited>
+	
+	<ManchesterUnited id="5">
+		<match>ManchesterUnited vs Swansea City</match>
+		<date>Sat 2nd Jan</date>
+		<time>15:00</time>		
+	</ManchesterUnited>
+
+<!--Arsenal fixtures-->
+	
+	<Arsenal id="1">
+		<match>Olympiakos Fc vs Arsenal</match>
+		<date>Wed 9th Dec</date>
+		<time>19:45</time>		
+	</Arsenal>
+	
+	<Arsenal id="2">
+		<match>Aston Villa vs Arsenal</match>
+		<date>Sun 13th Dec</date>
+		<time>13:30</time>		
+	</Arsenal>
+	
+	<Arsenal id="3">
+		<match>Arsenal vs Manchester City</match>
+		<date>Mon 21th Dec</date>
+		<time>20:00</time>		
+	</Arsenal>
+	
+	<Arsenal id="4">
+		<match>Southampton vs Arsenal</match>
+		<date>Sat 26th Dec</date>
+		<time>19:45</time>		
+	</Arsenal>
+	
+	<Arsenal id="5">
+		<match>Arsenal vs Bournemouth</match>
+		<date>Mon 28th Dec</date>
+		<time>17:30</time>		
+	</Arsenal>
+
+</fixtures>

@@ -1,0 +1,55 @@
+.jumbotron
+{
+background-image:url('../images/bg2.jpg');
+background-attachment:fixed;
+background-repeat: no-repeat;
+min-height:100%;
+min-width:100%;
+margin-bottom:0px;
+}
+
+.alt1
+{
+background:orange;
+padding-top:20px;
+padding-bottom:20px;
+
+}
+
+.alt2
+{
+background:#333;
+min-height:150px;
+color:#fff;
+text-align:center;
+}
+
+.alt3
+{
+background:orange;
+
+}
+
+.alt4{
+
+padding-top:20px;
+padding-bottom:20px;
+}
+
+.alt5{
+    color: black;
+    
+    /*-webkit-text-stroke-width: 0.3px;
+   -webkit-text-stroke-color: white;*/
+}
+.headz{
+text-align: center;
+}
+
+
+.padding
+{
+padding-top:20px;
+padding-bottom:20px;
+}
+

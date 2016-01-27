@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--<?xml-stylesheet href="books.xsl" type="text/xsl"?> -->
+<infomation>
+   <user id="bk101">
+		<player>Bob Murpy</player>
+		<team>Manchester United</team>
+		<rating>CHANGED</rating>
+      <description>Smart Player</description>
+   </user>
+     <user id="bk102">
+		<player>John moran</player>
+		<team>Arsenal</team>
+		<rating>CHANGED</rating>
+      <description>There style of playing is great</description>
+   </user>
+   
+<user><player>aaron</player><team>united</team><rating>7</rating><description>good good</description></user></infomation>
